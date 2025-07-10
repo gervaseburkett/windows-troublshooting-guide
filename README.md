@@ -117,3 +117,6 @@ cls                       # Clear command prompt screen
 9. Windows Memory Diagnostic – Check for RAM issues
 10. Reliability Monitor – Visual history of system stability
 ```
+
+🔀 This project has multiple branches. See the [`dev`](https://github.com/gervaseburkett/boot-issues-/blob/main/README.md) branch for the latest features and testing updates.
+
